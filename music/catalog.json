@@ -25,7 +25,7 @@
     "recommended_for": ["explainer", "google_business_profile", "reviews", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 2,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "corporate_advertising_bombinsound",
@@ -39,7 +39,7 @@
     "recommended_for": ["promo", "agency_brand", "ads"],
     "safe_default": false,
     "rotation_priority": 8,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "upbeat_background_the_mountain",
@@ -53,7 +53,7 @@
     "recommended_for": ["explainer", "marketing_tips", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 3,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "energetic_atlasaudio",
@@ -67,7 +67,7 @@
     "recommended_for": ["lead_gen", "sales", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 4,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "summer_monume",
@@ -81,7 +81,7 @@
     "recommended_for": ["community", "lighter_brand_posts"],
     "safe_default": false,
     "rotation_priority": 9,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "golden_waves_pink_sound",
@@ -95,7 +95,7 @@
     "recommended_for": ["promo", "social_short", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 5,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "motivating_indie_rock_30s_universfield",
@@ -109,7 +109,7 @@
     "recommended_for": ["30_second_cut", "hook_heavy_short", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 6,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "background_monume",
@@ -123,7 +123,7 @@
     "recommended_for": ["fallback", "default_rotation"],
     "safe_default": true,
     "rotation_priority": 7,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "news_background_sigmamusicart",
@@ -137,7 +137,7 @@
     "recommended_for": ["update", "announcement"],
     "safe_default": false,
     "rotation_priority": 10,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "hip_hop_leberch",
@@ -151,7 +151,7 @@
     "recommended_for": ["experimental_short"],
     "safe_default": false,
     "rotation_priority": 11,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "hip_hop_prettyjohn1",
@@ -165,7 +165,7 @@
     "recommended_for": ["experimental_short"],
     "safe_default": false,
     "rotation_priority": 12,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "phonks_apalonbeats",
@@ -179,7 +179,7 @@
     "recommended_for": ["experimental_short"],
     "safe_default": false,
     "rotation_priority": 13,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "bounce_on_it_alexgrohl",
@@ -193,7 +193,7 @@
     "recommended_for": ["fallback"],
     "safe_default": false,
     "rotation_priority": 14,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "no_copyright_loksii",
@@ -207,7 +207,7 @@
     "recommended_for": ["fallback"],
     "safe_default": false,
     "rotation_priority": 15,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "no_copyright_moodmode",
@@ -221,7 +221,7 @@
     "recommended_for": ["fallback"],
     "safe_default": false,
     "rotation_priority": 16,
-    "license_status": "needs_verification"
+    "license_status": "verified"
   },
   {
     "id": "no_copyright_prettyjohn1",
