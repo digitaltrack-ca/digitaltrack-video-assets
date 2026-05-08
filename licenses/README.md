@@ -21,8 +21,8 @@ Videos license proof
 - monume-background-music-519228: https://pixabay.com/music/trap-background-music-519228/
 - monume-summer-519246: https://pixabay.com/music/beats-summer-519246/
 - moodmode-no-copyright-music-201745: https://pixabay.com/music/funk-no-copyright-music-201745/
-- pink_sound-golden-waves-tropical-house-instrumental-background-music-1-minute-520794: https://pixabay.com/music/search/pink_sound-golden-waves-tropical-house-instrumental-background-music-1-minute-520794/
-- prettyjohn1-corporate-corporate-music-483403: https://pixabay.com/music/search/prettyjohn1-corporate-corporate-music-483403/
+- pink_sound-golden-waves-tropical-house-instrumental-background-music-1-minute-520794: https://pixabay.com/music/dance-golden-waves-tropical-house-instrumental-background-music-1-minute-520794/
+- prettyjohn1-corporate-corporate-music-483403: https://pixabay.com/music/corporate-corporate-corporate-music-483403/
 - prettyjohn1-hip-hop-514999: https://pixabay.com/music/beats-hip-hop-514999/
 - prettyjohn1-no-copyright-music-498106: https://pixabay.com/music/funk-no-copyright-music-201745/
 - sigmamusicart-news-news-background-520540: https://pixabay.com/music/corporate-news-news-background-520540/
